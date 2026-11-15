@@ -1,0 +1,22 @@
+{
+  "wheel_id": 903,
+  "structure": "umbrella",
+  "slug": "retainingwallsnewcastle-114",
+  "project": "retaining-wall-contractors-newcastle-warranty-087ab4a14d8c19569",
+  "parent_t1_ref": "retainingwallsnewcastle-156",
+  "node_role": "feeder",
+  "money_target": "retainingwallsnewcastle.com.au",
+  "primary_kw": "retaining wall contractors newcastle warranty",
+  "intended_url": "http://retaining-wall-contractors-newcastle-warranty-087ab4a14d8c19569.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "8aad251dc3d109c1",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-contractors-newcastle-maintenance-9e2dbd9ba9852f/",
+      "anchor": "a guide to retaining wall contractors newcastle maintenance",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
